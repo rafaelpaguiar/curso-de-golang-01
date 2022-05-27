@@ -1,0 +1,1 @@
+* O ponto de entrada de execução de uma aplicação em Go é a função main do pacote main.
