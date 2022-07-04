@@ -23,7 +23,8 @@ func main() {
 		return txt
 	}
 
-	f("Texto da função f")
+	resultado := f("Texto da função f")
+	fmt.Println(resultado)
 
 	resultadoSoma1, resultadoSubtrcao1 := calculosMatematicos(10, 20)
 	fmt.Println(resultadoSoma1, resultadoSubtrcao1)
