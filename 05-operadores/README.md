@@ -1,0 +1,1 @@
+* No Go não é possível realizar operações e comparaçãoes com variáveis de tipos diferentes (Somar int16 com int32 por exemplo)
